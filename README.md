@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# monsters-rolodex
+- Just a test app when i was learning react
 
 ## Available Scripts
 
